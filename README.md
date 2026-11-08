@@ -3,9 +3,9 @@
 Shows what you're doing in F1 25 on your Discord profile: game mode, track, your driver in career, and your position.
 
 <p align="center">
-  <img src="assets/screenshots/career.png" width="32%">
-  <img src="assets/screenshots/race.png" width="32%">
-  <img src="assets/screenshots/menus.png" width="32%">
+  <img src="assets/career.png" width="32%">
+  <img src="assets/race.png" width="32%">
+  <img src="assets/menus.png" width="32%">
 </p>
 
 It runs in the system tray, starts with Windows, and uses basically no CPU. It only reads the game's official UDP telemetry, so it doesn't touch game files and is safe online.
